@@ -72,7 +72,7 @@ public class Configurer extends WebMvcConfigurerAdapter {
     registry.addResourceHandler("/scripts/").addResourceLocations("/scripts/**");
     registry.addResourceHandler("/styles/").addResourceLocations("/styles/**");
     registry.addResourceHandler("/elements/").addResourceLocations("/elements/**");
-  //  registry.addResourceHandler("/bower_components/").addResourceLocations("/**");
+
   }
 
 }

@@ -12,7 +12,6 @@ public class PageController {
 
   @RequestMapping(value = "/home" , method = RequestMethod.GET)
   public String home() {
-    System.out.println("queried for index");
     return "index";
   }
 

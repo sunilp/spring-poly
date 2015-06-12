@@ -16,8 +16,6 @@ public class MessageController {
 
     Message msg = new Message("Hello " + person);
 
-
-
     return msg;
   }
 

@@ -134,7 +134,7 @@
               <resource>
                 <!-- this is relative to the pom.xml directory -->
                 <directory>app</directory>
-                <!--<directory>bower_components</directory>-->
+
               </resource>
             </webResources>
 

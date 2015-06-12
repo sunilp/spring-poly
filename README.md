@@ -53,4 +53,12 @@ gulp serve
 ```
 
 
+### Rest Services
+
+http://server:port/greet/sunilp
+
+```
+  {"text":"Hello sunilp","createdDate":1434121582018}
+```
+
 ### ( Enjoy!! )
